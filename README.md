@@ -9,7 +9,7 @@
 * [License](#license)
 
 ## Deployed Heroku URL
-
+https://safe-sea-79163.herokuapp.com/
 
 ## Installation
 Use 'npm install' to install all dependencies.
@@ -31,6 +31,8 @@ Tech Blog is a tech-oriented blog site that allows users to sign up, log in, and
 Node.js, Express.js, Sequelize, mySQL/mysql2, JavaScipt, handelbars,
 bcrypt, connect-session-sequelize, express-handlebars, express-session 
 
+### Screenshot
+![screenshot](images/screenshot.png)
 
 ### Questions
 ##### GitHub
