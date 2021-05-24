@@ -9,7 +9,7 @@
 * [License](#license)
 
 ## Deployed Heroku URL
-https://still-headland-55014.herokuapp.com/
+
 
 ## Installation
 Use 'npm install' to install all dependencies.
@@ -32,9 +32,6 @@ Node.js, Express.js, Sequelize, mySQL/mysql2, JavaScipt, handelbars,
 bcrypt, connect-session-sequelize, express-handlebars, express-session 
 
 
-### Screenshot of deployed site
-![screenshot](./assets/videos/walkthrough.webp)
-
 ### Questions
 ##### GitHub
 [Carrington13](https://github.com/Carrington13)
@@ -51,8 +48,6 @@ Node.js, express.js, and Sequelize routes/models - By:
 Casey Arrington
 
 [License Badges and Links](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
-
-[Video to WEBP converter](https://www.onlineconverter.com/video-to-webp)
 
 
 
