@@ -9,7 +9,7 @@
 * [License](#license)
 
 ## Deployed Heroku URL
-https://cryptic-cove-59138.herokuapp.com/
+https://still-headland-55014.herokuapp.com/
 
 ## Installation
 Use 'npm install' to install all dependencies.
@@ -28,14 +28,11 @@ Use 'node server' or 'npm start' from Command Line while inside the file directo
 Tech Blog is a tech-oriented blog site that allows users to sign up, log in, and publish blog posts.
 
 ### Languages/Technologies 
-Node.js, Express.js, Sequelize, mySQL, JavaScipt, handelbars, 
+Node.js, Express.js, Sequelize, mySQL/mysql2, JavaScipt, handelbars,
+bcrypt, connect-session-sequelize, express-handlebars, express-session 
 
-### Tests
-All tests are through Insomnia Core to test server routes
 
-### Tutorials
-
-#### Full Walk-through
+### Screenshot of deployed site
 ![screenshot](./assets/videos/walkthrough.webp)
 
 ### Questions
